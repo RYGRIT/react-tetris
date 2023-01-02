@@ -1,0 +1,19 @@
+# 结尾是否添加分号
+semi: false
+# 是否使用单引号
+singleQuote: true
+# 一行代码的最大字符数
+printWidth: 80
+# 尾部逗号设置，（es5 | none | all）三选一
+# es5：尾部逗号兼容 es5
+# none：没有尾部逗号
+# all：所有可能的情况
+trailingComma: 'none'
+# 箭头函数单个参数的情况是否省略括号，默认值为 always，（always | avoid）二选一
+# always：总是带括号
+# avoid：不带括号
+arrowParens: 'avoid'
+# 缩进为2个空格
+tabWidth: 2
+# 是否使用tab来缩进
+useTabs: false
